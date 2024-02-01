@@ -1,1 +1,1 @@
-# thinkinfp
+[link](./node.md)
